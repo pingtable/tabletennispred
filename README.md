@@ -1,1 +1,1 @@
-# tabletennispred
+# tabletennisprediction
